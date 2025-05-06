@@ -16,7 +16,7 @@ GITHUB_REPO="https://github.com/Danny200523/Javascript_S1_GuerreroDaniel.git"
   # --- Personalización del PC ---
 
 # URL de la imagen que se usará como fondo de pantalla.  
-IMAGE_URL="https://www.xtrafondos.com/wallpapers/rick-y-morty-en-nave-espacial-12437.jpg"
+IMAGE_URL="https://wallpapers.com/images/hd/rick-and-morty-in-the-beach-sunset-lp5645l0h01qloh8.jpg"
 
   # --- Personalización de la terminal ---
 
