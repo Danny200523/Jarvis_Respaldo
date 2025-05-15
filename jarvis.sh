@@ -11,7 +11,7 @@ GITHUB_EMAIL="danicrack0709@gmail.com"
 GITHUB_USERNAME="Danny200523"
 
 # Enlace SSH del repositorio que deseas clonar por defecto:
-GITHUB_REPO="https://github.com/Danny200523/Javascript_S1_GuerreroDaniel.git"
+GITHUB_REPO="https://github.com/Danny200523/Proyecto_Javascript_GuerreroDaniel-VargasJuan.git"
 
   # --- Personalización del PC ---
 
